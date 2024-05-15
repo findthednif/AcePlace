@@ -1,5 +1,5 @@
 const url =
-  'http://suggestions.dadata.ru/suggestions/api/4_1/rs/findById/party';
+  'https://suggestions.dadata.ru/suggestions/api/4_1/rs/findById/party';
 const token = '590d816108872ecd15567db2634d97ed19a40814';
 const getCompanies = async (query) => {
   const options = {
